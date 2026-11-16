@@ -469,7 +469,7 @@ Objectifs :
 ### Étape 1 : Cloner le projet
 
 ```bash
-git clone https://github.com/username/school-attendance.git
+git clone [https://github.com/username/school-attendance.git](https://github.com/mekouar1999/gestionAbsence#pr%C3%A9requis)
 
 cd school-attendance
 ```
